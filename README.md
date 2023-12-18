@@ -6,7 +6,7 @@ O lugar ideal para investir! Infraestrutura completa com rede de água, energia,
 ## 🔥 Introdução
 Landing page de geração de leads para o empreendimento Quintas da Mata.
 
-[Acessar site](https://www.smartimobiliario.com.br/)
+[Acessar site](https://quintasdamata.com.br/)
 
 ## 📦 Tecnologias usadas:
 
